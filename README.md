@@ -1,326 +1,291 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
 
-<!--
-**PragyaSingh1707522/PragyaSingh1707522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:78002E,35:FF1744,70:E60073,100:C026D3&height=240&section=header&text=Pragya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=58"
+    width="100%"
+  />
+</p>
 
-Here are some ideas to get you started:<!--
-╔══════════════════════════════════════════════════════════════╗
-║             PRAGYA SINGH | DEVELOPER PROFILE                 ║
-║          Futuristic GitHub Profile README                    ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<!-- ================= TYPING EFFECT ================= -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF477E&center=true&vCenter=true&width=750&lines=Building+scalable+software+applications;Engineering+intelligent+AI+solutions;Python+%7C+Flask+%7C+Machine+Learning;Exploring+Computer+Vision+%26+NLP;Build+%C2%B7+Innovate+%C2%B7+Engineer+%C2%B7+Repeat"
+    alt="Typing SVG"
+  />
+</p>
 
-<!-- ANIMATED HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PRAGYA%20SINGH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Software%20Development&descSize=15&descAlignY=60&color=0:08001F,40:4B0082,75:00D9FF,100:FF2E93&animation=twinkling" />
+<!-- ================= PROFILE BADGES ================= -->
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Python+%7C+Flask+%7C+SQL;Building+Intelligent+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PragyaSingh1707522&label=PROFILE+VIEWS&color=E60073&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PragyaSingh1707522?label=FOLLOWERS&style=for-the-badge&color=FF1744" />
+</p>
 
-<br/>
+<!-- ================= SOCIAL LINKS ================= -->
 
-<img src="https://komarev.com/ghpvc/?username=PragyaSingh1707522&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/PragyaSingh1707522?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/PragyaSingh1707522?label=TOTAL%20STARS&style=for-the-badge&color=FF2E93&labelColor=0D1117" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-<!-- ABOUT ME -->
-
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-8A2BE2?style=flat-square" /> 
-
-<img align="right" width="290" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
-Hey there! I'm **Pragya Singh** 👋
-
-I'm a developer passionate about building intelligent applications, exploring machine learning, and transforming ideas into practical software solutions.
-
-- 🔭 Exploring Machine Learning and Computer Vision.
-- 🧠 Building intelligent solutions using Python.
-- 🌐 Developing web applications with Flask and SQL.
-- 👁️ Interested in image processing and AI-powered systems.
-- 💡 Constantly learning, experimenting and building.
-- 🎯 Focused on writing clean, efficient and maintainable code.
-
-<br clear="right"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pragya-singh22/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF477E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:singh.pragya08147@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-E60073?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- TECH STACK -->
+<!-- ================= ABOUT ME ================= -->
 
-## <img src="https://img.shields.io/badge/02-TECH%20ARSENAL-00D9FF?style=flat-square" />
-
-<div align="center">
-
-### ⚡ Technologies & Tools
-
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,sqlite,opencv,tensorflow,sklearn,numpy,pandas,git,github,vscode,jupyter&perline=8&theme=dark" />
-
-<br/><br/>
-
-### 🧬 Core Expertise
-
-| Domain | Technologies |
-|:---|:---|
-| Programming | Python, HTML, CSS |
-| Machine Learning | Scikit-learn, NumPy, Pandas |
-| Computer Vision | OpenCV, Image Processing |
-| Backend Development | Flask, REST APIs |
-| Databases | MySQL, SQLite, SQL |
-| Development Tools | Git, GitHub, VS Code, Jupyter |
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-
-## <img src="https://img.shields.io/badge/03-FEATURED%20PROJECTS-FF2E93?style=flat-square" />
-
-<div align="center">
-
-*Exploring software engineering, machine learning, data and intelligent systems.*
+<h2 align="center">⚡ About Me</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 💹 Finance Full Stack
-
-<a href="https://github.com/PragyaSingh1707522/Finance-Full-Stack-Web-App-using-Flask-and-SQL-master">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL-master&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-</a>
-
-A finance-focused web application built with Flask and SQL, combining backend development and database management.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+<td width="45%" align="center">
+  <img
+    src="https://raw.githubusercontent.com/PragyaSingh1707522/PragyaSingh1707522/main/assets/terminal-about.svg"
+    width="100%"
+    alt="Terminal About"
+  />
 </td>
-<td width="50%" valign="top">
 
-### 🔐 Cryptographic Algorithm Detection
+<td width="55%">
 
-<a href="https://github.com/PragyaSingh1707522/Cryptographic-Algorithm-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Cryptographic-Algorithm-Detection&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-</a>
+### Hey, I'm Pragya 👋
 
-A project focused on identifying cryptographic algorithms through computational analysis.
+I'm a Software Developer interested in building practical applications and exploring Artificial Intelligence and Machine Learning.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Security](https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square)
+- 💻 Passionate about software development and problem-solving.
+- 🤖 Exploring Machine Learning and Computer Vision.
+- 🐍 Working with Python, Flask and SQL.
+- 🔍 Building real-world AI/ML projects.
+- 🚀 Focused on continuous learning and engineering better solutions.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 Wonderlust
-
-<a href="https://github.com/PragyaSingh1707522/Wonderlust">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Wonderlust&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-</a>
-
-A travel-oriented web development project focused on creating an engaging travel discovery experience.
-
-![Web Development](https://img.shields.io/badge/Web-Development-00D9FF?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🦺 Construction Site Safety
-
-<a href="https://github.com/PragyaSingh1707522/Construction-Site-Safety-PPE-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Construction-Site-Safety-PPE-Detection&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-</a>
-
-A computer vision project focused on detecting personal protective equipment (PPE) in construction environments.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-8A2BE2?style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Industrial Machinery Defect Detection
-
-<a href="https://github.com/PragyaSingh1707522/Industrial-Machinary-defect-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Industrial-Machinary-defect-detection&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-</a>
-
-A Python-based project exploring automated identification of defects in industrial machinery.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF2E93?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Mental Health Prediction
-
-<a href="https://github.com/PragyaSingh1707522/Mental-Health-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Mental-Health-Prediction&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-</a>
-
-A web-based project exploring mental health prediction through a user-facing interface.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Web](https://img.shields.io/badge/Web-Development-00D9FF?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Software_Development-FF1744?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF477E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-E60073?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-C026D3?style=flat-square" />
+</p>
 
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/PragyaSingh1707522?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-</div>
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🛠️ Tech Stack & Technologies</h2>
+
+<table>
+<tr>
+
+<td width="42%" align="center">
+  <img
+    src="https://raw.githubusercontent.com/PragyaSingh1707522/PragyaSingh1707522/main/assets/tech-globe.svg"
+    width="100%"
+    alt="Revolving Tech Globe"
+  />
+</td>
+
+<td width="58%" align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&theme=dark" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite&theme=dark" />
+
+### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" />
+
+### Data Science & Libraries
+
+<img src="https://img.shields.io/badge/NumPy-FF1744?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-FF477E?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-E60073?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+<!-- ================= FEATURED PROJECTS ================= -->
 
-## <img src="https://img.shields.io/badge/04-GITHUB%20ANALYTICS-8A2BE2?style=flat-square" />
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<table>
+<tr>
 
-### 📊 Development Statistics
+<td width="50%">
 
-<a href="https://github.com/PragyaSingh1707522">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PragyaSingh1707522&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2E93&text_color=FFFFFF&rank_icon=github" />
-</a>
+<h3 align="center">Finance Management Application</h3>
 
-<a href="https://github.com/PragyaSingh1707522">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaSingh1707522&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
-</a>
+<p align="center">
+  <a href="https://github.com/PragyaSingh1707522/Finance-Full-Stack-Web-App-using-Flask-and-SQL-master">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL-master&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3" />
+  </a>
+</p>
 
-<br/><br/>
+</td>
 
-### 🔥 Contribution Streak
+<td width="50%">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=PragyaSingh1707522&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF2E93&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=888888" />
+<h3 align="center">Cryptographic Algorithm Detection</h3>
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/PragyaSingh1707522/Cryptographic-Algorithm-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Cryptographic-Algorithm-Detection&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3" />
+  </a>
+</p>
 
-### 📈 Contribution Activity
+</td>
+</tr>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PragyaSingh1707522&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FF2E93&area=true&hide_border=true&custom_title=PRAGYA%27S%20CONTRIBUTION%20TIMELINE" />
+<tr>
 
-</div>
+<td width="50%">
+
+<h3 align="center">WonderLust – Travel Platform</h3>
+
+<p align="center">
+  <a href="https://github.com/PragyaSingh1707522/Wonderlust">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Wonderlust&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Construction Site Safety Detection</h3>
+
+<p align="center">
+  <a href="https://github.com/PragyaSingh1707522/Construction-Site-Safety-PPE-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Construction-Site-Safety-PPE-Detection&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">Industrial Machinery Defect Detection</h3>
+
+<p align="center">
+  <a href="https://github.com/PragyaSingh1707522/Industrial-Machinary-defect-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Industrial-Machinary-defect-detection&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Mental Health Prediction System</h3>
+
+<p align="center">
+  <a href="https://github.com/PragyaSingh1707522/Mental-Health-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PragyaSingh1707522&repo=Mental-Health-Prediction&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- 3D CONTRIBUTIONS -->
+<!-- ================= GITHUB STATS ================= -->
 
-## <img src="https://img.shields.io/badge/05-3D%20CONTRIBUTION%20UNIVERSE-FF2E93?style=flat-square" />
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=PragyaSingh1707522&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D0710&title_color=FF477E&icon_color=E60073&text_color=FCE7F3&border_color=E60073"
+  />
 
-### 🌌 My GitHub Activity in 3D
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaSingh1707522&layout=compact&langs_count=8&theme=radical&bg_color=0D0710&title_color=FF477E&text_color=FCE7F3&border_color=E60073"
+  />
+</p>
 
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" />
-
-<br/><br/>
-
-### 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="./github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<!-- CURRENTLY WORKING ON -->
-
-## <img src="https://img.shields.io/badge/06-CURRENTLY%20EXPLORING-00D9FF?style=flat-square" />
-
-<div align="center">
-
-| Area | Focus |
-|:---|:---|
-| 🤖 Machine Learning | Model development and experimentation |
-| 👁️ Computer Vision | Image processing and object detection |
-| 🐍 Python | Writing efficient and reusable applications |
-| 🌐 Web Development | Flask applications and database integration |
-| 📚 Learning | Exploring new technologies and building projects |
-
-</div>
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=PragyaSingh1707522&theme=radical&background=0D0710&ring=FF1744&fire=FF477E&currStreakLabel=E60073&sideLabels=FCE7F3&dates=FCE7F3&border=E60073"
+  />
+</p>
 
 ---
 
-<!-- FUN FACT -->
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
-## <img src="https://img.shields.io/badge/07-BEYOND%20THE%20CODE-8A2BE2?style=flat-square" />
+<h2 align="center">🐍 Contribution Activity</h2>
 
-<div align="center">
-
-> "Great things are done by a series of small things brought together."
-
-**Code. Experiment. Learn. Repeat.** ⚡
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/PragyaSingh1707522/PragyaSingh1707522/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 ---
 
-<!-- CONNECT -->
+<!-- ================= QUOTE ================= -->
 
-## <img src="https://img.shields.io/badge/08-LET'S%20CONNECT-FF2E93?style=flat-square" />
+<h2 align="center">💭 Thought of the Day</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    width="80%"
+  />
+</p>
 
-I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+---
 
-<br/>
+<!-- ================= CONNECT ================= -->
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<h2 align="center">🌐 Let's Connect</h2>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <a href="mailto:singh.pragya08147@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
 
-<br/><br/>
+  &nbsp;&nbsp;
 
-### ✨ Thanks for visiting my profile!
+  <a href="https://github.com/PragyaSingh1707522">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,45:8A2BE2,100:00D9FF&height=120&section=footer&animation=twinkling" width="100%" />
+  &nbsp;&nbsp;
 
-</div>
+  <a href="https://www.linkedin.com/in/pragya-singh22/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:78002E,35:FF1744,70:E60073,100:C026D3&height=120&section=footer"
+    width="100%"
+  />
+</p>
